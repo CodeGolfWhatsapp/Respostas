@@ -1,0 +1,1 @@
+print(('MUTE','TWEET')[len(input())<141])
