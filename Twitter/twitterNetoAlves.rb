@@ -1,0 +1,1 @@
+puts gets.size<141?"TWEET":"MUTE"
