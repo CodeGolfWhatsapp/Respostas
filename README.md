@@ -1,6 +1,6 @@
-#Respostas
+# Respostas
 
-Regras:
+## Regras:
 
 1) Você pode usar a linguagem que quiser.
 
@@ -19,3 +19,7 @@ Jorge Eduardo sets mode +o  kemper
 
 Greetings, Kemper!
 You are the new admin of Code Golf!
+
+
+## Ranking
+[Ver](https://github.com/CodeGolfWhatsapp/Respostas/blob/master/Rankings.md)
