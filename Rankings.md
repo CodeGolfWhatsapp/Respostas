@@ -6,7 +6,7 @@
 
 
 ### Code Golf 001 <a id="Code-Golf-001"></a>
-🔻 1° _Kemper_ - 60 Bytes
+🔻 1° _Kemper_ - 29 Bytes
 
 🔻 2° _Renan Lira_ - 50 Bytes
 
