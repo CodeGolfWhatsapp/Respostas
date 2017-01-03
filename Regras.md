@@ -16,7 +16,7 @@
 
 7) É terminantemente proibido o uso de palavras de baixo calão.
 
-8)
+8) É terminantemente proibida a postagem de material pornográfico.
 
 Code Golf é um tipo de competição de programação de computadores recreativa em que os participantes se esforçam para alcançar o código fonte mais curto que implementa um determinado algoritmo.
 
