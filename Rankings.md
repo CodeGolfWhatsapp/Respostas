@@ -5,7 +5,7 @@
 
 
 
-### Code Golf 001<a id="Code-Golf-001"></a>
+### Code Golf 001 <a id="Code-Golf-001"></a>
 🔻 1° _Renan Lira_ - 50 Bytes
 
 🔻 2° _Vantuir_ - 56 Bytes
@@ -31,7 +31,7 @@ C 10° _Renan Ofugi_ - 171 Bytes
 
 
 <a id="Code-Golf-00"></a>
-### Code Golf 002<a id="Code-Golf-002"></a>
+### Code Golf 002 <a id="Code-Golf-002"></a>
 
 🔻 1° _Renan Lira_ - 118 Bytes
 
@@ -56,7 +56,7 @@ C 10° _Renan Ofugi_ - 171 Bytes
 
 
 
-### Code Golf 003 🏆<a id="Code-Golf-003"></a>
+### Code Golf 003 🏆 <a id="Code-Golf-003"></a>
 
 🔻 1° _Kemper_ - 99 Bytes
 
@@ -73,7 +73,7 @@ C 10° _Renan Ofugi_ - 171 Bytes
 
 
 
-### Code Golf 004 🏆<a id="Code-Golf-004"></a>
+### Code Golf 004 🏆 <a id="Code-Golf-004"></a>
 
 🔻 1° _Kemper_ - 30 Bytes
 
@@ -94,7 +94,7 @@ C 10° _Renan Ofugi_ - 171 Bytes
 
 
 
-### Code Golf 005<a id="Code-Golf-005"></a>
+### Code Golf 005 🏆 <a id="Code-Golf-005"></a>
 
 🔻 1°_Kemper_ - 97 Bytes
 
@@ -111,7 +111,7 @@ C 10° _Renan Ofugi_ - 171 Bytes
 
 
 
-### Code Golf 006<a id="Code-Golf-006"></a>
+### Code Golf 006 🏆 <a id="Code-Golf-006"></a>
 
 🔻 1 _Renan Lira_ - 72 Bytes
 
@@ -128,7 +128,7 @@ C 10° _Renan Ofugi_ - 171 Bytes
 
 
 
-### Code Golf 007<a id="Code-Golf-007"></a>
+### Code Golf 007 🏆 <a id="Code-Golf-007"></a>
 
 🔻 1° _Kemper_ - 55 Bytes
 
