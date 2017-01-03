@@ -6,13 +6,13 @@
 
 
 ### Code Golf 001 <a id="Code-Golf-001"></a>
-🔻 1° _Renan Lira_ - 50 Bytes
+🔻 1° _Kemper_ - 60 Bytes
 
-🔻 2° _Vantuir_ - 56 Bytes
+🔻 2° _Renan Lira_ - 50 Bytes
 
-🔻 2° _João_ - 56 Bytes
+🔻 3° _Vantuir_ - 56 Bytes
 
-🔻 4° _Kemper_ - 60 Bytes
+🔻 4° _João_ - 56 Bytes
 
 🔻 5° _Neto_ - 71 Bytes
 
