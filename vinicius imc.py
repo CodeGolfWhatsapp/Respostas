@@ -1,0 +1,10 @@
+p=float(input())
+h=float(input())
+c=p/(h**2)
+if c < 20:resul=('Abaixo do peso')
+elif 20<=c<25:resul=('Peso Normal')
+elif 15<=c<30:resul=('Acima do Peso')
+else:
+    if 30<=c<34:resul('Obeso')
+    else:resul('Muito Obeso')
+print("IMC: %.2f"%c)print("Situacao: %s"%resul)
