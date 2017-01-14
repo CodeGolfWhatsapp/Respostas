@@ -1,0 +1,1 @@
+p=input();a=input();f=float;i=int(p)/(f(a)**2);o="Obseso";p=" Peso";s="Situacao: ";print'IMC: %.2f'%i;print((((((("",s+"Muito "+o)[34<i],s+o)[30<=i<34],s+"Acima do"+p)[25<=i<30]),s+p+" Normal")[20<=i<25],s+"Abaixo do"+p)[i<20])
