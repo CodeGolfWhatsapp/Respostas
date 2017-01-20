@@ -1,0 +1,1 @@
+var d,g:integer;c:real;Begin write('Informe a distancia em km: ');readln(d);write('Informe o consumo medio: ');readln(c);g:=round(d/c);writeln('Total em litros de combustível: ',g);writeln('Total gasto com combustivel: R$ ',3.8*g:0:2);write('Paradas previstas: ',(d/250):0:0);End.
