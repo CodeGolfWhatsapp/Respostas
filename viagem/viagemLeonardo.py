@@ -1,0 +1,1 @@
+s,c=input('Informe a distancia em Km: '),input('Informe o consumo medio: ');c=round(s/c);print'Total em Litros de combustivel: %d Litros\nTotal Gasto com combustivel: R$ %.2f\nParadas previstas: %d'%(c,c*3.8,s/250)
