@@ -1,0 +1,1 @@
+<?php $m="combustivel";echo"Informe a distancia em KM: ";$a=fgets(STDIN);echo"Informe o consumo medio: ";$c=intval($a/fgets(STDIN)+.5);echo"Total em Litros de $m: $c litros\nTotal gasto com $m: R$ ".number_format($c*3.8,2)."\nParadas previstas: ".intval($a/250);
