@@ -1,0 +1,1 @@
+var p=prompt,d=p('Informe a distancia em Km: '),c=p('Informe o consumo medio: '),t=(d/c).toFixed(0);console.log('Total de litros de combustivel: '+t+' Litros\nTotal gasto com combustivel: R$ '+(t*3.8).toFixed(2)+'\nParadas previstas: '+(d/250).toFixed(0))
