@@ -1,6 +1,10 @@
 ## 🏆 Ranking 🏆
 
 #### Code Golf
+  
+[#010](#Code-Golf-010)  
+[#009](#Code-Golf-009)  
+[#008](#Code-Golf-008)  
 [#007](#Code-Golf-007)  
 [#006](#Code-Golf-006)  
 [#005](#Code-Golf-005)  
@@ -9,6 +13,76 @@
 [#002](#Code-Golf-002)  
 [#001](#Code-Golf-001)  
 
+
+### Code Golf 010 🏆 <a id="Code-Golf-010"></a>
+
+🐍 1° Kemper - 205 Bytes
+
+🐍 2° Renan - 206 Bytes
+
+🐍 3º Furtadinho - 212 Bytes
+
+🐍 4º Dorotheu - 214 Bytes
+
+🐍 5º Leonardo - 214 Bytes
+
+🐍 6º Breno - 216 Bytes
+
+🐍 7° Kugi Haito - 216 Bytes
+
+🐍 8º Leomar - 224 Bytes
+
+🐍 9° Acácio - 229 Bytes
+
+🐍 10° Lucas - 235 Bytes
+
+🐍 11° Kevin - 243 Bytes
+
+🐍 12° J. Eduardo - 250 Bytes
+
+JS 13° Allan Lima - 255 Bytes
+
+🐍 14° Pixel Killer - 258 Bytes
+
+🤖 15° Phorde  - 280 Bytes
+
+PT 16° Rafael - 354 Bytes
+
+JS 17° Gabriel - 371 Bytes 🍍
+
+### Code Golf 009 🏆 <a id="Code-Golf-009"></a>
+
+♦ 1° Kemper - 145 Bytes 👑
+
+♦ 2° Renan  - 145 Bytes 
+
+♦ 3° Furtadinho - 145 Bytes
+
+🐍 4° Kugi Haito - 176 Bytes 
+
+🐍 5º Breno - 189 Bytes
+
+🐍 6° Pixel Killer - 237 bytes
+
+🐍 7º Acácio - 238 Bytes
+
+🐍 8° c0n73mp7 - 244 Bytes 
+
+🐍 9° Vinicius - 269 Bytes
+
+🐍 10° Jorge Eduardo - 291 Bytes
+
+🐍 11° Neto Alves - 300 Bytes
+
+🤖 12° Phorde - 322 Bytes
+
+🐍 13° Erlon - 375 Bytes🍍
+
+
+### Code Golf 008 🏆 <a id="Code-Golf-008"></a>
+
+🐍 1° Kemper - 71 Bytes 👑
+🐍 2° Renan - 77 Bytes 🍍
 
 
 ### Code Golf 007 🏆 <a id="Code-Golf-007"></a>
@@ -20,7 +94,6 @@
 🐍 3° _Jorge Eduardo_ - 75 Bytes
 
 🐍 4° _Neto Alves_ - 160 Bytes 🍍
-
 
 
 ### Code Golf 006 🏆 <a id="Code-Golf-006"></a>
@@ -36,9 +109,6 @@
 🐍 5° _Neto Alves_ - 123 Bytes  🍍
 
 
-
-
-
 ### Code Golf 005 🏆 <a id="Code-Golf-005"></a>
 
 🔻 1°_Kemper_ - 97 Bytes
@@ -50,9 +120,6 @@
 🐍 4° _Jorge Eduardo_ - 155 Bytes
 
 🐍 5° _Neto Alves_ - 175 Bytes   🍍
-
-
-
 
 
 ### Code Golf 004 🏆 <a id="Code-Golf-004"></a>
@@ -72,9 +139,6 @@
 🐍 7° _Kevin_ - 63 Bytes 🍍
 
 
-
-
-
 ### Code Golf 003 🏆 <a id="Code-Golf-003"></a>
 
 🔻 1° _Kemper_ - 99 Bytes
@@ -86,7 +150,6 @@
 🐍 4° _Jorge Eduardo_ - 255 Bytes
 
 🐍 5° _Erlon_ - 564 Bytes 🍍
-
 
 
 ### Code Golf 002 <a id="Code-Golf-002"></a>
@@ -108,9 +171,6 @@
 🐍 8° _Kevin_ - 217 Bytes
 
 🔻 9° _Erlon_ - 248 Bytes 🍍
-
-
-
 
 
 ### Code Golf 001 <a id="Code-Golf-001"></a>
