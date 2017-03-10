@@ -39,9 +39,11 @@
 
 🐍 1° - _Carlos_ - 46 Bytes 🏅
 
-♦ 2° - _Kemper_ - 68 Bytes
+🐍 2° - _Renan_ - 46 Bytes
 
-🐍 3° - _Maurício_ - 120 Bytes
+♦ 3° - _Kemper_ - 68 Bytes
+
+🐍 4° - _Maurício_ - 120 Bytes
 
 
 ### Code Golf 014 🏆 <a id="Code-Golf-014"></a>
