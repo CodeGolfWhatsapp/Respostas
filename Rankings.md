@@ -190,6 +190,7 @@ JS 17° _Gabriel_ - 371 Bytes 🍍
 
 
 🐍 1° _Kemper_ - 71 Bytes 👑
+
 🐍 2° _Renan_ - 77 Bytes 🍍
 
 
