@@ -13,6 +13,30 @@
 [#002](#Code-Golf-002)  
 [#001](#Code-Golf-001)  
 
+🏆 PARTIDA #016 RANKING 🏆 
+
+♦ 1° - Davidson - 41 Bytes 🥇
+♦ 2° - Carlos - 44 Bytes
+♦ 3° - Renan - 45 Bytes
+♦ 4° - Furtadinho - 70 Bytes
+♦ 5° - Kemper - 73 Bytes
+🐍 6° - Kevin - 147 Bytes 🍍
+
+🏆 PARTIDA #015 RANKING 🏆
+🐍 1° - Carlos - 46 Bytes
+♦ 2° - Kemper - 68 Bytes
+🐍 3° - Maurício - 120 Bytes
+
+🏆 PARTIDA #014 RANKING 🏆
+
+🐫 1° - Renan - 30 Bytes 🏅
+♦ 2° - Phorde - 44 Bytes
+♦ 3° - Kemper - 44 Bytes
+🐍 4° - Mauricio - 59 Bytes
+🐍 5° - Lucas - 70 Bytes
+🐍 6° - Eduardo - 84 Bytes
+Esolangs:
+🐉 1° Renan - 16 Bytes 🏅
 
 ### Code Golf 010 🏆 <a id="Code-Golf-010"></a>
 
