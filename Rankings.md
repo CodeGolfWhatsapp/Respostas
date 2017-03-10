@@ -2,12 +2,12 @@
 
 #### Code Golf
 
-[#016](#Code-Golf-016)
-[#015](#Code-Golf-015)
-[#014](#Code-Golf-014)
-[#013](#Code-Golf-013)
-[#012](#Code-Golf-012)
-[#011](#Code-Golf-011)
+[#016](#Code-Golf-016)  
+[#015](#Code-Golf-015)  
+[#014](#Code-Golf-014)  
+[#013](#Code-Golf-013)  
+[#012](#Code-Golf-012)  
+[#011](#Code-Golf-011)  
 [#010](#Code-Golf-010)  
 [#009](#Code-Golf-009)  
 [#008](#Code-Golf-008)  
