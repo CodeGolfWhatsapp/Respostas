@@ -2,6 +2,7 @@
 
 #### Code Golf
 
+[#017](#Code-Golf-017)  
 [#016](#Code-Golf-016)  
 [#015](#Code-Golf-015)  
 [#014](#Code-Golf-014)  
@@ -19,7 +20,7 @@
 [#002](#Code-Golf-002)  
 [#001](#Code-Golf-001)  
 
-### Code Golf 016 🏆 <a id="Code-Golf-016"></a> 
+### Code Golf 017 🏆 <a id="Code-Golf-017"></a> 
 
 
 ♦ 1° - _Davidson_ - 41 Bytes 🏅
@@ -33,6 +34,21 @@
 ♦ 5° - _Kemper_ - 73 Bytes
 
 🐍 6° - _Kevin_ - 147 Bytes 🍍
+
+
+### Code Golf 016 🏆 <a id="Code-Golf-016"></a>
+
+
+♦ 1° Davidson - 79 Bytes
+
+♦ 2° Kemper - 79 Bytes
+
+♦ 3° Renan - 80 Bytes
+
+🐍 4° Carlão - 86 Bytes
+
+🐍 5° Kevin - 92 Bytes
+
 
 ### Code Golf 015 🏆 <a id="Code-Golf-015"></a>
 
