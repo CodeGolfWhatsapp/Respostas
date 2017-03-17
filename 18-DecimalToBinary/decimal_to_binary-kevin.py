@@ -1,0 +1,1 @@
+﻿def b(d):b='';while d//2!=0:b=str(d%2)+b;d=d//2;return str(d)+b;print b(int(input()))
