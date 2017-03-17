@@ -1,0 +1,15 @@
+public class MAin {
+
+	public static void main(String[] args) {
+		StringBuffer str = new StringBuffer();
+		int base;
+		int num=4;
+        while ( num >= 1){
+            base = num % 2;
+            System.out.println ( base );
+            str.append(base);
+            num = num / 2 ;
+            System.out.println(str);
+       }System.out.println("Numero binario = "+str.reverse());
+       }
+	}
