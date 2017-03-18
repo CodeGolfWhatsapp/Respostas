@@ -1,0 +1,1 @@
+b=parseInt(prompt()),a=b<0?~b:b,alert(a.toString(2))
