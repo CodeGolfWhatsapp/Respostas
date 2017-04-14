@@ -1,0 +1,1 @@
+s=0;(1..gets.to_i).map{p,v=gets.split;s+=p.to_i*v.to_f/100};printf "Economia do cliente: R$ %.2f",s
