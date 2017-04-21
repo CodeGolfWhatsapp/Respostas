@@ -1,0 +1,1 @@
+a,b=c=[0,0].map{eval gets.tr' ',?*};$><<"#{a==b ?'Empate':a>b ?'Primeiro':'Segundo'}\nMaior area: #{c.max}"
