@@ -6,4 +6,4 @@ t=0 if t<0
 break if t>24||c>1
 c+=1
 end
-puts t>24 ?"Paz Mundial!\nQuantidade de tijolos:#{t}":"Guerraaaa!"
+puts t>24?"Paz Mundial!\nQuantidade de tijolos:#{t}":"Guerraaaa!"
