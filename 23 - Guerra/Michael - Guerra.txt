@@ -1,2 +1,0 @@
-#include <stdlib.h>
-int main(){int a=3,b=10,c=-5,v,t=0,x=1;while(x<4){scanf("%d",&v);switch(v){case 1:t+=6;break;case 2:t+=13;break;case 3:t-=5;break;}x++;}if (t>25){printf("%dPaz Mundial!\n",t);}if(t<25){printf("%dGerra!",t);}}
