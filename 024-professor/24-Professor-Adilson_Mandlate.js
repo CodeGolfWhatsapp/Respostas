@@ -1,0 +1,1 @@
+a=prompt().split(''),s=+a[0]+ +a[2],m=a[0]*a[2],n=a[0]-a[2];alert('SOMA = '+s+'\nMULTIPLICACAO = '+m+'\nSUBTRACAO = '+n)
