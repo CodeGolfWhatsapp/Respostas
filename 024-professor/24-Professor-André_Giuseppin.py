@@ -1,0 +1,1 @@
+a,b=map(int,input().split());z=a+b;x=a*b;c=a-b;print('SOMA =' ,z,'\nMULTIPLICACAO =' ,x,'\nSUBTRACAO =' ,c)
