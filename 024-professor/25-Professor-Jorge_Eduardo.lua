@@ -1,0 +1,1 @@
+﻿a,b=io.read("*n","*n);io.write("SOMA = a+b,"\nMULTIPLICACAO = ",a*b,"\nSUBTRACAO = "a-b)
