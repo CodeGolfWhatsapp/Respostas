@@ -1,0 +1,1 @@
+a,b=gets.split.map &:to_i;puts"SOMA = #{a+b}\nMULTIPLICAÇÃO = #{a*b}\nSUBTRAÇÃO = #{a-b}"
