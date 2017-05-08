@@ -1,0 +1,3 @@
+echo "SOMA = $(($1+$2))
+MULTIPLICACAO = $(($1*$2))
+SUBTRACAO = $(($1-$2))"
