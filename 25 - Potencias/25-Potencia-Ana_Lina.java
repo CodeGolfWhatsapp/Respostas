@@ -1,0 +1,1 @@
+﻿import java.util.*;public class P{public static void main(String[] args){Scanner s=new Scanner(System.in);int b=s.nextInt();int e=s.nextInt();int p=0;for(int i=0;i<e;i++){p=(int) Math.pow(b,i);int r= p;System.out.println(r);}}}
