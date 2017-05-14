@@ -1,0 +1,1 @@
+[x,h]=prompt().split(" ");for(i=0;i<h;)console.log(x**i++)
