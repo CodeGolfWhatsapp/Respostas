@@ -1,0 +1,1 @@
+b=input('');e=input('');for i=0:e-1;s=b^i;disp(s);end
