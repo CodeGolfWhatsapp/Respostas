@@ -1,0 +1,1 @@
+a,b=gets.split;0.upto(b.to_i){|i|puts a.to_i**i}
