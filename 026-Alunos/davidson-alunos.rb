@@ -1,1 +1,0 @@
-a=[0,0,0].map{gets};m=(a[1].to_f+a[2].to_f)/2;puts "NOME: %sNOTA 1: %sNOTA 2: %sMEDIA: %.1f\nSTATUS: #{m>7?'A':'RE'}PROVADO"%(a+[m])
