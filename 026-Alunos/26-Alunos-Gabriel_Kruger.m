@@ -1,0 +1,1 @@
+i=@input;a={i('','s'),i(''),i('')};a{4}=(a{2}+a{3})/2;if a{4}<=7;s='REPROVADO';else;s='APROVADO';end;fprintf('NOME: %s\nNOTA 1: %.1f\nNOTA 2: %.1f\nMEDIA: %.1f\nSTATUS: %s',a{1},a{2},a{3},a{4},s)
