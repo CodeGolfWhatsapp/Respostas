@@ -1,0 +1,1 @@
+<?php $G=$_GET;$i=array(1=>$G[1],2=>$G[2],3=>$G[3],4=>(($G[2]+$G[3])/2));echo"NOME: $i[1]<br>NOTA 1: $i[2]<br>NOTA 2: $i[3]<br>MEDIA: ",round($i[4],PHP_ROUND_HALF_UP),"<br>";($i[4]>7)?$t='A':$t='RE';echo"STATUS: $t"."PROVADO";
