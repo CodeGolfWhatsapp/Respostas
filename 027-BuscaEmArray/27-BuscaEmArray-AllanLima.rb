@@ -1,0 +1,1 @@
+a=(1..12).map{rand 100};puts a.join(",")+"\nDIGITE UM NUMERO DE 0 A 99:";p=a.index i=gets.to_i;puts"O NUMERO #{i} "+(p ?"ESTA NA POSICAO #{p}.":"NAO SE ENCONTRA NO ARRAY.")
