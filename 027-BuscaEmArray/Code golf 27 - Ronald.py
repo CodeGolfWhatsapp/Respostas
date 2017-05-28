@@ -1,0 +1,1 @@
+import random;a=[5,4,15,11,9,55,33,21,77,12,82,41];random.shuffle(a);p=print;p(str(a).lstrip('[').rstrip(']'));b=int(input('DIGITE UM NUMERO DE 0 A 99:\n'));p('O NUMERO',b,'ESTA NA POSICAO',a.index(b),'.')if b in a else p('O NUMERO',b,'NÃO SE ENCONTRA NO ARRAY.')
