@@ -1,0 +1,1 @@
+<?php for($i=0;$i<12;$i++){$a[]=random_int(0,99);}echo implode(",",$a)."\nDIGITE UM NUMERO DE 0 A 99:\n";$e=stream_get_line(STDIN, 1024, PHP_EOL);$t="O NUMERO $e";echo in_array($e,$a)?"$t ESTA NA POSICAO ".array_search($e, $a):"$t NÃO SE ENCONTRA NO ARRAY.";
