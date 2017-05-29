@@ -1,0 +1,1 @@
+r=randperm(99,12);s=sprintf('%.0f,',r);disp(s(1:end-1));i=input('DIGITE UM NUMERO DE 0 A 99:\n');for c=1:12;if i==r(c);b='O NUMERO %d ESTA NA POSICAO %d.';break;else;b='O NUMERO %d NAO SE ENCONTRA NO ARRAY.%';end;end;fprintf(b,i,find(r==i))
