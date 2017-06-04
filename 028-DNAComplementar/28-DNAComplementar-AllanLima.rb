@@ -1,0 +1,1 @@
+puts"#{a='A CADEIA '}DE DNA DIGITADA E:\n#{i=gets}SU#{a+='COMPLE'}MENTAR E:\n#{c=i.tr'ATCG','TAGC'}#{a}TA E:\n"+i+c
