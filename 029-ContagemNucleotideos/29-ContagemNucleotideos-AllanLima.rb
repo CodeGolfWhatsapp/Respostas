@@ -1,0 +1,1 @@
+i=gets;c=->s{i.count s};$><<[c['A'],c['C'],c['G'],c['T']]*?\s
