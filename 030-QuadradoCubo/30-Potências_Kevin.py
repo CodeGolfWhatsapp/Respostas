@@ -1,0 +1,1 @@
+for x in range(1,input()+1):print x,x*x,x**3
