@@ -1,0 +1,1 @@
+var n=prompt();var i=n%2==0?Number(n):n++,j=0,s=0;while(j<5){if(i%2==0){s+=i;j++;}i++;}console.log(s);
