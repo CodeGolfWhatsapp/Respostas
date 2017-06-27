@@ -1,0 +1,1 @@
+n=input();x=n+n+2+n+4+n+6+n+8 if n%2==0 or x=n+1+n+3+n+5+n+7+n+9;print x
