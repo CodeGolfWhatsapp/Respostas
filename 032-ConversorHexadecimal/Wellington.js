@@ -1,0 +1,1 @@
+var n=prompt(),x='0123456789ABCDEF',d,s='';while(n>0){d=n%16;s=x.charAt(d)+s;n=(n/16)|0;}alert(s);
