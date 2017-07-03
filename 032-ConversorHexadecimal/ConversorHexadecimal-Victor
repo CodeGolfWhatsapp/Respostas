@@ -1,0 +1,2 @@
+h,d="",gets.to_i;while d>0
+x=(a=(d-16*d/=16))>9?55:48;h=(a+x).chr+h end;puts h
