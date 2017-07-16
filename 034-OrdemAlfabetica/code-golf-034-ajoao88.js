@@ -1,0 +1,1 @@
+function a(v){for(i=1;i<v.length;i++){k=v[i];j=i;while(j>0&&v[j-1]>k){v[j]=v[j-1];j--}v[j]=k}return v}
