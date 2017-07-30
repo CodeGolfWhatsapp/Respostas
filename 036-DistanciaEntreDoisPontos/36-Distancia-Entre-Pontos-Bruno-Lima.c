@@ -1,0 +1,1 @@
+main(){float p,r,q,s;scanf("%f%f%f%f",&p,&r,&q,&s);printf("%.4f",sqrt(pow(q-p,2)+pow(s-r,2)));}
