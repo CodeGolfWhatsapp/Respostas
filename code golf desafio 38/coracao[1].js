@@ -1,0 +1,1 @@
+c=prompt();alert(c*31557600)
