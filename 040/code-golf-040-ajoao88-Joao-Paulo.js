@@ -1,0 +1,1 @@
+c=b=a=+prompt();while(a--)b+=c%a?0:a;b
